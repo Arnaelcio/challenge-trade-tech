@@ -18,13 +18,13 @@ Testes utilizando a ferramenta Cypress;
 Clone o repositório
 git clone git@github.com:Arnaelcio/challenge-trade-tech.git.
 
-Entre na pasta do repositório que você acabou de clonar:
+### Entre na pasta do repositório que você acabou de clonar:
 cd challenge-trade-tech
 
 Instale as dependências e inicialize o projeto
 
-Instale as dependências:
+### Instale as dependências:
 npm install
 
-Inicialize o projeto:
+### Inicialize o projeto:
 npm start
