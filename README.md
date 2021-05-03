@@ -16,7 +16,7 @@ Testes utilizando a ferramenta Cypress;
 
 ## Como rodar o projeto:
 Clone o repositório
-git clone git@github.com:tryber/sd-08-project-recipes-app.git.
+git clone git@github.com:Arnaelcio/challenge-trade-tech.git.
 
 Entre na pasta do repositório que você acabou de clonar:
 cd sd-08-project-recipes-app
