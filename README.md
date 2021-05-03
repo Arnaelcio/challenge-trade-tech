@@ -19,7 +19,7 @@ Clone o repositório
 git clone git@github.com:Arnaelcio/challenge-trade-tech.git.
 
 Entre na pasta do repositório que você acabou de clonar:
-cd sd-08-project-recipes-app
+cd challenge-trade-tech
 
 Instale as dependências e inicialize o projeto
 
