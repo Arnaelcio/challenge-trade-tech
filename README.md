@@ -27,4 +27,8 @@ Instale as dependências e inicialize o projeto
 npm install
 
 ### Inicialize o projeto:
+<<<<<<< HEAD
 npm start
+=======
+npm start
+>>>>>>> c0092309fa3dd535858202210483537b4ac6b2ff
