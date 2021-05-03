@@ -1,0 +1,17 @@
+.container-details {
+  align-items: center;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
+form {
+  text-align-last: left;
+  width: 100%;
+}
+label {
+  font-weight: 900;
+}
+label p {
+  font-weight: 500;
+  margin-bottom: 2%;
+}
